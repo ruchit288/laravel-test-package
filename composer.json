@@ -1,10 +1,10 @@
 {
     "name": "laravel-test-package/timezones",
-    "description": "Demo-package to show time",
+    "description": "Demo-package to show current time",
     "authors": [
         {
             "name": "Ruchit Patel",
-            "email": "ruchit.patel@viitorcloud.com"
+            "email": "ruchit.it288@viitorcloud.com"
         }
     ],
     "minimum-stability": "dev",
